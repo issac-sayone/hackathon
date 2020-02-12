@@ -1,5 +1,5 @@
 DeepZoomTools==1.0.0
-Django==1.6.11
+Django==1.11.28
 M2Crypto==0.21.1
 PAM==0.4.2
 Pillow==2.3.0
