@@ -37,7 +37,7 @@ idna==2.6
 ipaddress==1.0.19
 jsonschema==2.6.0
 lockfile==0.8
-lxml==3.3.3
+lxml==4.9.1
 oauthlib==0.6.1
 oneconf==0.3.7.14.04.1
 pexpect==3.1
