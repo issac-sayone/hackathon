@@ -1,7 +1,7 @@
 Babel==2.5.3
 Django==1.11
 Faker==0.8.15
-Pillow==5.1.0
+Pillow==9.3.0
 Unidecode==0.04.21
 argparse==1.2.1
 django-appconf==1.0.2
